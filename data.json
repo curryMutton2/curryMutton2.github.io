@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "title": "Rowan's Portfolio",
+    "github_username": "rowatk",
+    "aboutme": "My name is Rowan Atkinson. I am currently a student at the University of the West Indies, Mona Campus.",
+    "menu_options": [
+      {
+        "text": "About me",
+        "link": "#about"
+      },
+      {
+        "text": "Projects",
+        "link": "#projects"
+      }
+    ]
+  },
+  "personal": {
+    "contact": {
+      "firstname": "Rowan",
+      "lastname": "Atkinson"
+    },
+    "socials": [
+      {
+        "social": "email",
+        "url": "mailto:rowanatkinson@outlook.com",
+        "icon": "assets/mail.svg"
+      },
+      {
+        "social": "linkedin",
+        "url": "https://www.linkedin.com/in/rowatk/",
+        "icon": "assets/linkedin.svg"
+      },
+      {
+        "social": "github",
+        "url": "https://github.com/rowatk",
+        "icon": "assets/github.svg"
+      },
+      {
+        "social": "codepen",
+        "url": "https://codepen.io/rowatk",
+        "icon": "assets/codepen.svg"
+      }
+    ]
+  }
+
+}
